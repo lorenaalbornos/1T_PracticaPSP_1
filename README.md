@@ -3,12 +3,13 @@
 
 
 ## Pre-requisitos 📋
-Tener creada la base de datos utilizada en la aplicación
+* Tener creada la base de datos utilizada en la aplicación.  
+* Tener instalado el programa XAMPP para poder tener acceso al servidor donde se encuentra la base de datos.
 
 ## Instalación 🔧
 Para poder usar esta aplicación debes hacer lo siguiente:  
 
-1. Descargar/clonar el proyecto subido al repositorio  
+1. Descargar/clonar el proyecto subido al repositorio.  
 
 2. Debes abrir el cmd en windows. Se puede hacer de varias formas:  
 1- Botón de windows y escribir cmd.  
